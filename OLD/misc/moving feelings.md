@@ -1,0 +1,7 @@
+im so pissed off im not the person i want to be RIGHT NOW. i hate how much Mia and my mom influenced my personality, and how shut-in i've felt my entire life and even if i do move, how much am i really going to change? i'm terrified of still being a shut-in and still being super scared of meeting new people. I barely talk to my friends now, how the fuck am i gonna make new ones? I'm scared of being that weird partner that Jordan is with for some reason. That nobody actually knows that well. I barely know who i am as a person. The only times i felt genuinely Myself is on my computer and thats so sad. And if i do change, im scared of changing too much into somebody that Jordan isn't gonna know ? Or even like that much? I mean my base personality isn't really gonna change, im always gonna be a little shy and particular.. orrr THAT outgoing? But when i've been in Bumfuck Country my whole life... who knows how different im going to be when im somewhere more like my preferences but was never able to exist within?
+
+i hate that i just Know for a few months after the move i'm going to be extremely nervous all of the time. and that i'm gonna have to meet new people (for work/around town) while im LIKE That. i dont even want to be like that and people are gonna have to remember me like that... FUCK
+
+i do want to get away from home as far away as possible, i can't fucking stand it here. I feel like a freak but i just have to have this be a part of me forever and i hate that.
+
+I just want to be happy as myself

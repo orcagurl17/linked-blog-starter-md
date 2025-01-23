@@ -1,0 +1,3 @@
+- 630 a month split between us
+- 100 for utilities
+- 100ish for food
