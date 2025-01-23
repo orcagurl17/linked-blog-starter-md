@@ -1,3 +1,9 @@
+---
+tags:
+  - writing
+  - au
+  - su
+---
 Story: Instead of going with the Diamonds, Spinel decides to go out into the world and start over with somebody. She serendipitously finds a group of gems that all found each other through hardship - abandonment, similar to Spinel herself.
 
 This gem group partakes in money laundering to help the local community, but another particular gem is on their case - Hodgkinsonite. She’s a pink gem who used to be similar to a sheriff on Homeworld, but since Era 3, she’s been continuing her duties on Earth.

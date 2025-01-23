@@ -1,4 +1,8 @@
-
+---
+tags:
+  - horror
+  - writing
+---
 **notes**
 - Thea's been writing in a diary since she was really little, is a naturally very colorful writer, but is pretty inhibited on the outside.
 - Ashley's been her close friend for a long time since they were both young. Lots of inside jokes, been with each other through every hardship and milestone. Dynamic between them both is that Ashley is really reassuring and lighthearted but doesn't really show it when she gets really anxious or emotional, while Thea kinda has... flat affect? Not very expressive, but feels her emotions very strongly and only Ashley can tell when she's feeling anxious and, when prodded, will be blunt about it.

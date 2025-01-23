@@ -1,3 +1,8 @@
+---
+tags:
+  - horror
+  - list
+---
 - [The Strangest Security Tape I've Ever Seen](https://www.reddit.com/r/nosleep/comments/u0ymh/the_strangest_security_tape_ive_ever_seen/)
 - <details>
   <summary>TRIGGER WARNING: suicide, parental abuse</summary>

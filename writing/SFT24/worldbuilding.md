@@ -1,3 +1,9 @@
+---
+tags:
+  - ttte
+  - writing
+  - au
+---
 	how locomotives are seen in society
 In this universe, steam locomotives have a very prominent role in society. They are very highly acclaimed and respected and to aspire to be in the railroading industry is seen the same as wanting to become a doctor or a politician. For example, the United States has widespread reliable cross-country rail transportation for both passenger and freight. Locomotive drivers have something similar to local celebrity status, as well as the locomotives themselves are seen as local OR national symbols.
 
