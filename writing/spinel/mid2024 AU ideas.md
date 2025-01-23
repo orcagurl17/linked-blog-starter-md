@@ -1,9 +1,5 @@
----
-tags:
-  - writing
-  - au
-  - su
----
+#writing #au #spinel 
+
 this has been veryyy inspired by watching Ducktales and lamenting on how SU could've been if the adult gems in Steven's life were more responsible and appropriate with Steven as he grew up...
 
 like this could be in an alternate universe where Steven, him still getting a normal amount of emotional problems from going on those dangerous adventures and getting into conflicts with Homeworld, so he ends up more well-adjusted and feeling more secure as a person and being able to trust his family. BUT! That's not the point of this AU.
