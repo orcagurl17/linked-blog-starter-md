@@ -1,2 +1,1 @@
-### THIS IS A PERSONAL OBSIDIAN VAULT, DO NOT LOOK THRU ANYTHING.
-##### I don't know how anyone could come across this but if you do please respect my privacy, thank you.
+NOW this is private for realsies, WHEW. If you can see this then (WAVES AT YOU) (SMILES)
