@@ -1,9 +1,5 @@
----
-tags:
-  - ttte
-  - writing
-  - au
----
+#ttte #writing #au
+
 Steam Team, engine numbers 1 through 7.
 - Thomas Stroudley
 	- age: early 20's
