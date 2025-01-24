@@ -1,6 +1,5 @@
----
-tags: []
----
+#writing #horror 
+
 entry 1 (july 4th, 2503)  
 hello. my name is thea choros. i'm writing this as i spend my next couple of years traveling through space, on my way to the Anomaly.  
 the scientists who discovered it said that while it does suck in light like a black hole... it doesn't look like one.  
