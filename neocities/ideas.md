@@ -1,3 +1,4 @@
+#neocities 
 - make a more pleasing menu bar with. maybe buttons?
 - menu options:
 	about me / diary / guestbook / friends / misc ->drop-down: my stories / AUs / self shipping / other interests
