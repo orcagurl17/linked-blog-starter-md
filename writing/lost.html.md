@@ -1,7 +1,5 @@
 ---
-tags:
-  - horror
-  - writing
+tags: []
 ---
 entry 1 (july 4th, 2503)  
 hello. my name is thea choros. i'm writing this as i spend my next couple of years traveling through space, on my way to the Anomaly.  
