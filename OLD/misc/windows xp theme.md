@@ -1,4 +1,0 @@
-- `C:\Program Files\Plus!\Themes`
-- https://mhoefs.eu/software_uxtheme.php?lang=en
-- https://github.com/malvinas2/ClassicThemeForWindows10?tab=readme-ov-file
-- 

@@ -1,7 +1,0 @@
-- start just shitting out art ASAP, post anywhere i can. go crazy
-		- discord: gayllery
-		- tumblr: abbysiea
-		- youtube: abyssal wraith (pending name/theme change, repurpose to any kind of video art Not just creepys)
-- WHILE making art (visual, writing, video, music), simultaneously experiment with new usernames
-- digest all kinds of art Organically, as little algorithm help as possible
-- WHEN ready, make new tumblr/instagram.
