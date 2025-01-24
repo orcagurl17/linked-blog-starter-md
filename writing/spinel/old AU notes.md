@@ -1,4 +1,4 @@
-#writing #su #su #spinel
+
 
 Story: Instead of going with the Diamonds, Spinel decides to go out into the world and start over with somebody. She serendipitously finds a group of gems that all found each other through hardship - abandonment, similar to Spinel herself.
 

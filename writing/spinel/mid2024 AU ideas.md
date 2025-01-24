@@ -1,4 +1,4 @@
-#writing #au #spinel 
+#spinel #writing #au
 
 this has been veryyy inspired by watching Ducktales and lamenting on how SU could've been if the adult gems in Steven's life were more responsible and appropriate with Steven as he grew up...
 
