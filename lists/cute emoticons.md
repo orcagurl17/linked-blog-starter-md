@@ -8,9 +8,7 @@ kaomoji
 - (▣ᗢ▣)ﾉ彡☆♡
 - (〃▣ε▣〃)
 - ┻┳|▣3▣)ﾉ (hiding)
-
-trying to make me kissing bunny kaomoji pray for me
-／(〃>ᆺ<〃)＼ε⊟〃)
+- ／(≧ᆺ≦)＼ε▣〃) KISS!
 
 emoticons
 - ⊟-)
