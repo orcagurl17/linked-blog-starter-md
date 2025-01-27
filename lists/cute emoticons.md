@@ -1,5 +1,7 @@
 #list
 
+https://coolsymbol.com/square-rectangle-symbols.html
+https://www.emoticonstext.com
 ## beryl
 kaomoji
 - (▣‿▣)
