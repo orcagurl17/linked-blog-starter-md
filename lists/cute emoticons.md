@@ -9,6 +9,7 @@ kaomoji
 - (〃▣ε▣〃)
 - ┻┳|▣3▣)ﾉ (hiding)
 - ／(≧ᆺ≦)＼ε▣〃) KISS!
+- ⊟
 
 emoticons
 - ⊟-)
