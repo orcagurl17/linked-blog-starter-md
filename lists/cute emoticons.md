@@ -6,10 +6,10 @@ https://www.emoticonstext.com
 kaomoji
 - (▣‿▣)
 - (▣ᗢ▣)ﾉ彡☆♡
-- (〃▣ε▣〃)
-- ┻┳|▣3▣)ﾉ (hiding)
+- (〃▣3▣〃) fish face
+- ┻┳|▣3▣;)ﾉ (hiding)
 - ／(≧ᆺ≦)＼ε▣〃) KISS!
-- (⊟∀▣)b
+- (⊟∀▣)b thumb up
 
 emoticons
 - ⊟-)
