@@ -19,3 +19,4 @@ emoticons
 
 ## misc.
 - ᕕ( ᐛ )ᕗ
+- ₊˚✩⊹
