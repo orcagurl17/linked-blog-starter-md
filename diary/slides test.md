@@ -1,0 +1,34 @@
+#uu #life 
+
+I'm in my first ever UU sermon right now.. the togetherness feels really nice :') BUT they had a ritual where everybody faced different cardinal directions and i got it wrong LOL. it was cool though i like it, its very, shall i say, universal. which is the point :-)
+---
+earth my body
+water my blood
+fire my body
+lift my spirit?
+---
+OMG THERES CHILDREN YAYY
+---
+the kids keep trying to talk and the speaker keeps on saying "im gonna be talking for a few minutes" LOL i felt a twinge of eek when she /sounded/ demeaning to a kid answering her question, but i dont think its very rational.
+
+is something growing inside of me that will be ready to blossom?
+
+this is a very beautiful and compassionate insight into the hardships of life and how offering compassion for the people around you will get you through the worst of times
+
+how we are all experiencing life at once
+
+ST BRIGIDS DAY????????????????????????
+
+i lovee how they are incorporating pagan/spiritual symbols in this practice and sermon. I was right when I said that these sort of symbols are psychologically potent in sharing these high-concept ideas even if the Literal Belief in deities/concepts from other religions isnt there
+
+what will i sweep away?
+- i want to work on my hesitation to put myself out there, in new communities, new friends, new opportunities.
+- self-denial of how i want to present myself, like my personality and interests, i dont want to hold back and self-flagellate like im so used to doing
+what is awakening in me?
+- that self-compassion will help me to suppress internally shaming other people not like me, and will ultimately help me reach out to help others and to hold other perspectives inside me.
+what flame should i tend to?
+- using my artistic/intellectual skills to express myself in different and new ways
+how should i prepare?
+- letting the people around me to hold me accountable to my goals
+
+Spring is coming with a strawberry in its mouth 🍓
