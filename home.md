@@ -1,4 +1,4 @@
-diary
-lists
-projects
-neocities
+# diary
+# lists
+# projects
+# neocities
