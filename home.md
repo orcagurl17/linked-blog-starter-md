@@ -1,4 +1,0 @@
-# diary
-# lists
-# projects
-# neocities
