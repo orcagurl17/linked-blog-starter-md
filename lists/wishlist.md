@@ -1,2 +1,2 @@
-- [ ] power cable for monitor - 
+- [ ] power cable for monitor - Asus TUF Gaming VG27AQ 
 - [ ] new apple pen - 
