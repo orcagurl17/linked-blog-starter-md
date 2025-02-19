@@ -1,0 +1,3 @@
+- [ ] power cable for monitor
+- [ ] new apple pen
+- [ ] 
