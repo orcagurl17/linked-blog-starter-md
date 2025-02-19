@@ -1,2 +1,2 @@
 - [ ] power cable for monitor - Asus TUF Gaming VG27AQ 
-- [ ] new apple pen - 
+- [ ] new apple pen - USB-C
