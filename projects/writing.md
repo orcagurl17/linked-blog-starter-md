@@ -1,6 +1,6 @@
 ##### AUs
 - Sunflower Train: Deluxe Suite Edition
-- Spinel AU (unnamed at the moment)
+- Eastbound, Starburned Heart
 ##### Original Projects
 - Thine Labyrinth Abright
 - Starchildren
