@@ -1,2 +1,2 @@
-- [ ] power cable for monitor - Asus TUF Gaming VG27AQ ([link](https://www.amazon.com/Asus-Gaming-VG24V-VG24VQ-Power/dp/B01CQISSSE))
+- [x] power cable for monitor - Asus TUF Gaming VG27AQ ([link](https://www.amazon.com/Asus-Gaming-VG24V-VG24VQ-Power/dp/B01CQISSSE))
 - [ ] new apple pen - USB-C (look on ebay for cheapskies)
