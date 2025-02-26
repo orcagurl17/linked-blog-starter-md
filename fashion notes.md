@@ -1,0 +1,1 @@
+style: vintage, organic patterns, feminine, moderately modest, 
