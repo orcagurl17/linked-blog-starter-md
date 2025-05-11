@@ -3,4 +3,7 @@
 - 1½ tbs cumin
 - 1 tbs chili powder
 - ½ tbs oregano
-- ½
+- ½ tbs garlic powder
+- ½ tbs onion powder
+- 3 tbs
+- salt to taste
