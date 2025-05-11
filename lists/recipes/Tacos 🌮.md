@@ -1,0 +1,3 @@
+- olive oil
+- 1 lb ground beef
+- 
