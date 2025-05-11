@@ -1,3 +1,2 @@
-ingredients:
-- 4 tbsp extra virgin olive oil
-- 1 medium yello wo
+![[638825780510483802.png|600]]![[638825780566224692.png]]
+![[638825780628021449.png]]
