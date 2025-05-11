@@ -1,7 +1,4 @@
-roasted veggies and pizza  
-  
-veggies seasoning  
-onion and garlic powder, a teensy bit of garlic salt  
+seasoning: seasoning salt, garlic powder, cumin, bit of cayenne pepper
   
 1. set oven to a little past 400 put pizza and veggies in at same time  
 2. set timer for 10 min  
