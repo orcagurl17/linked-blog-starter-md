@@ -1,3 +1,6 @@
 - olive oil
 - 1 lb ground beef
-- 
+- 1½ tbs cumin
+- 1 tbs chili powder
+- ½ tbs oregano
+- ½
