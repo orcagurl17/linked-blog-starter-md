@@ -1,15 +1,15 @@
 ingredients  
-• one 24 oz jar of pasta sauce  
-• 1 lb ground beef  
-• 1 small-diced onion  
-• ½ box of linguini or fettucine noodles  
-• spices:  
-• italian seasoning  
-• cayenne pepper  
-• minced garlic  
-• seasoned salt  
-• tomato paste  
-• salt and sugar to taste  
+- one 24 oz jar of pasta sauce  
+- 1 lb ground beef  
+- 1 small-diced onion
+- ½ box of linguini or fettucine noodles  
+spices:  
+- italian seasoning  
+- cayenne pepper  
+- minced garlic  
+- seasoned salt  
+- tomato paste  
+- salt and sugar to taste
   
 instructions  
 1. stir fry 1 diced onion until soft  
