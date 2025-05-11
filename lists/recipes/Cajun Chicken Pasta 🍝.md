@@ -2,7 +2,7 @@ makes 1½ servings
 
 NEEDS 1 SPECIAL INGREDIENT:  
 1 order of Little Ceasar's Garlic Parm wings  
-(You could honestly go without this i)
+(You could honestly go without this if you just want a yummy creamy pasta w/out chicken.)
 
 rest of ingredients:  
 • 6-8 cherry tomatoes  
