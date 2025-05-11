@@ -1,3 +1,4 @@
+ingredients
 - olive oil
 - 1 lb ground beef
 - 1½ tbs cumin
@@ -5,5 +6,5 @@
 - ½ tbs oregano
 - ½ tbs garlic powder
 - ½ tbs onion powder
-- 3 tbs
+- 3 tbs tomato paste
 - salt to taste
