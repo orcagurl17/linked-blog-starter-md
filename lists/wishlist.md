@@ -2,4 +2,3 @@
 - [ ] Tenor Ukulele
 - [ ] new phone case
 - [ ] iPad cover
-- [ ] 
