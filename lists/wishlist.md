@@ -1,3 +1,5 @@
-- [ ] DS Battery Replacement
-- [ ] wired earbuds
+- [ ] Game Controller for PC
+- [ ] Tenor Ukulele
+- [ ] new phone case
+- [ ] iPad cover
 - [ ] 
