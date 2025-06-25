@@ -1,9 +1,9 @@
-- physical disabilities
+- people with physical disabilities
 	- deafness and/or blindness
 	- handicap
 	- wheechair-bound
 	- amputees
-- self harm scars
+- people with self harm scars
 - people with addictions
 - unemployed people
-- people that are other races outside of j
+- people that are other races outside of just being white or black
