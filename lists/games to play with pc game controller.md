@@ -1,4 +1,6 @@
 - Animal Crossing: New Horizons
 - Mario Kart Wii
+- Undertale
+- Deltarune
 - Minecraft
-- Crazy Frog Racing game
+- Crazy Frog Racer
