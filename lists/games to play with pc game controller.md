@@ -1,0 +1,4 @@
+- Animal Crossing: New Horizons
+- Mario Kart Wii
+- Minecraft
+- Crazy Frog Racing game
