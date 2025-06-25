@@ -3,4 +3,7 @@
 	- handicap
 	- wheechair-bound
 	- amputees
-	
+- self harm scars
+- people with addictions
+- unemployed people
+- people that are other races outside of j
