@@ -1,4 +1,4 @@
-- [ ] Game Controller for PC
+- [x] Game Controller for PC
 - [ ] Tenor Ukulele
 - [ ] new phone case
 - [ ] iPad cover
