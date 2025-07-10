@@ -1,4 +1,5 @@
- to reset pan/rotate view: alt+middle click.
+ to reset pan/rotate view: `ALT`+`MIDDLE CLICK`
+ to reset 3d cursor: `SHIFT`+`C`
 
   checklist:
   - [ ] Finish blocking out the rest of the body with cube w/ subdivision modifier and using mirror modifier as needed (ADD modifiers in object mode!)
