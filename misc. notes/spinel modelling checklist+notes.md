@@ -1,1 +1,0 @@
-- to reset pan/rotate view: alt+middle click.
