@@ -5,4 +5,6 @@
   - [ ] Join all shapes together into one object
   - [ ] Tediously (and messily) join vertices of each different shape to the same mesh
   - [ ] Use another subdivison modifier on entire mesh
-  - [ ] Use Quad
+  - [ ] Use Quad Remesher
+
+see how that goes..? LOL
