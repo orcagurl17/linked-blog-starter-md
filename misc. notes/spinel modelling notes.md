@@ -8,5 +8,3 @@
 	  - I was able to stitch her head together save for her nose 😑
 - [ ] Connect torso pieces, and connect arms to hands.
 - [ ] Use Quad remesh on each body part
-- [ ] 
-see how that goes..? LOL
