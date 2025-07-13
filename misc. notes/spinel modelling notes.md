@@ -9,3 +9,5 @@
 - [x] Apply mirror AND subdivide modifier
 - [x] separate mirrored objects into different shapes
 - [ ] Use Quad remesh on each body part
+
+Uv map model and make individual texture for each body part
