@@ -8,5 +8,4 @@
 	  - I was able to stitch her head together save for her nose 😑
 - [x] Apply mirror AND subdivide modifier
 - [x] separate mirrored objects into different shapes
-- [ ] Connect torso pieces, and connect arms to hands.
 - [ ] Use Quad remesh on each body part
