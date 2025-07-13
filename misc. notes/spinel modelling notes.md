@@ -8,6 +8,8 @@
 	  - I was able to stitch her head together save for her nose 😑
 - [x] Apply mirror AND subdivide modifier
 - [x] separate mirrored objects into different shapes
+- [ ] Make scalp with her widow's peak
+	- How the fawk do I 
 - [ ] Use Quad remesh on each body part
 
 Uv map model and make individual texture for each body part
