@@ -9,7 +9,8 @@
 - [x] Apply mirror AND subdivide modifier
 - [x] separate mirrored objects into different shapes
 - [ ] Make scalp with her widow's peak
-	- How the fawk do I 
-- [ ] Use Quad remesh on each body part
+	- How the fawk do I make mesh stay directly on top of head mesh ; __ ;
+- [ ] Use Quad Remesher on each body part
 
-Uv map model and make individual texture for each body part
+For model texture:
+make UV map of the model and make individual textures for each body part
