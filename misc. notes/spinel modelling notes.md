@@ -2,9 +2,9 @@
  to reset 3d cursor: `SHIFT`+`C`
  
  to center an object:
- 1. `SHIFT`+`S
+ 1. `SHIFT`+ `S`
  2. choose "Cursor to World Center"
- 3. select object to center and `SHIFT`+`S
+ 3. select object to center and `SHIFT`+`S`
  4. choose "Selection to Cursor"
 
   checklist:
