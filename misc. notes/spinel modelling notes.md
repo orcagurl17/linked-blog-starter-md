@@ -1,10 +1,11 @@
  to reset pan/rotate view: `ALT`+`MIDDLE CLICK`
  to reset 3d cursor: `SHIFT`+`C`
+ 
  to center an object:
  1. `SHIFT`+`S
  2. choose "Cursor to World Center"
- 3. `SHIFT`+`S
- 4. choose
+ 3. select object to center and `SHIFT`+`S
+ 4. choose "Selection to Cursor"
 
   checklist:
   - [x] Finish blocking out the rest of the body with cube w/ subdivision modifier and using mirror modifier as needed (ADD modifiers in object mode!)
