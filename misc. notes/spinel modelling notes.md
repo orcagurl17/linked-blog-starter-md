@@ -11,7 +11,8 @@
 - [x] Make scalp with her widow's peak
 	- How the fawk do I make mesh stay directly on top of head mesh ; __ ;
 	- ^ I just turned on snapping to nearest face, and i used the Solidify modifier!
-
+- [ ] Glue hands and fingers together
+- [ ] Move hands in Edit mode to the middle and then move them back into place in Object mode
 - [ ] Use Quad Remesher on each body part
 
 For model texture:
