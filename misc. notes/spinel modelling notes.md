@@ -8,8 +8,10 @@
 	  - I was able to stitch her head together save for her nose 😑
 - [x] Apply mirror AND subdivide modifier
 - [x] separate mirrored objects into different shapes
-- [ ] Make scalp with her widow's peak
+- [x] Make scalp with her widow's peak
 	- How the fawk do I make mesh stay directly on top of head mesh ; __ ;
+	- ^ I just turned on snapping to nearest face, and i used the Solidify modifier!
+
 - [ ] Use Quad Remesher on each body part
 
 For model texture:
