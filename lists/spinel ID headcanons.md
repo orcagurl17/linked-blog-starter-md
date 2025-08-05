@@ -6,6 +6,10 @@ sexuality/gender
 - lesbian
 	- nonbinary lesbian https://lgbtqia.wiki/wiki/Non-Binary_Lesbian#/media/File:Enbylesbian.png
 	- BPD lesbian https://www.tumblr.com/radiomogai/733899102848417792/squidthing-archive
+	- lesbyguy https://www.tumblr.com/shk0lstun-flagz/781659370834608128/cinthiladywoman
 - butch
 
 pronouns
+- she/her
+- honk/honks
+- 
