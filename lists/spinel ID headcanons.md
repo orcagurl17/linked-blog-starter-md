@@ -9,6 +9,8 @@ sexuality/gender
 	- BPD lesbian https://www.tumblr.com/radiomogai/733899102848417792/squidthing-archive
 	- lesbyguy https://www.tumblr.com/shk0lstun-flagz/781659370834608128/cinthiladywoman
 - butch
+	- peony butch https://www.tumblr.com/daybreakthing/785273375699369984/term-definition-flag-term-by-idwl-were
+	- autistic butch https://www.tumblr.com/gendergasm/782827513278840832/autistic-butch-a-flag-for-any-butches-who-are
 
 pronouns
 - she/her
