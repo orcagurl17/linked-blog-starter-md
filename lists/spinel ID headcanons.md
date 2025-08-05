@@ -1,3 +1,6 @@
-- nonbinary lesbian
-- girly butch
-- 
+sexuality/gender
+- nonbinary
+- lesbian
+- butch
+
+pronouns
