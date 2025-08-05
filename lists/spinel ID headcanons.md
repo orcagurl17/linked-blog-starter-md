@@ -14,5 +14,7 @@ pronouns
 	- Spinel is so cute, I love her cute pigtails and stretchy powers! I think she should love herself forever and ever <3
 - honk/honks
 	- Spinel is so cute, I love honks cute pigtails and stretchy powers! I think honk should love honkself forever and ever <3
-- si/silly
-	- Spinel is so cute, I love silly cute pigtails and stretchy powers! I think si should love sillyself forever and ever <3
+- zip/zips
+	- Spinel is so cute, I love zips cute pigtails and stretchy powers! I think zip should love zipself forever and ever <3
+- fun/funs
+	- Spinel is so cute, I love funs cute pigtails and stretchy powers! I think fun should love funself forever and ever <3
