@@ -1,2 +1,4 @@
 - [ ] blue/teal adult Sketchers
 - [ ] 2-3 unpadded strapped sports bras
+- [ ] good headphones for PC
+- [ ] 
