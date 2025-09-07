@@ -1,4 +1,2 @@
-- [x] Game Controller for PC
-- [ ] Tenor Ukulele
-- [ ] new phone case
-- [ ] iPad cover
+- [ ] blue/teal adult Sketchers
+- [ ] 2-3 unpadded strapped sports bras
