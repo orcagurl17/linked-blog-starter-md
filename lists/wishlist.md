@@ -1,5 +1,5 @@
 *important:*
-- [ ] blue/teal adult Sketchers
+- [ ] Dr Scholl's 
 - [ ] 2-3 unpadded strapped sports bras
 - [ ] good headphones for PC
 
