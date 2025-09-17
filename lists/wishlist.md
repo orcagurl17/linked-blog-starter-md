@@ -1,5 +1,5 @@
 *important:*
-- [ ] Dr Scholl's 
+- [ ] Dr Scholl's foot support shoes (no )
 - [ ] 2-3 unpadded strapped sports bras
 - [ ] good headphones for PC
 
