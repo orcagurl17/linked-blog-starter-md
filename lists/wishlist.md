@@ -1,3 +1,4 @@
+*important:*
 - [ ] blue/teal adult Sketchers
 - [ ] 2-3 unpadded strapped sports bras
 - [ ] good headphones for PC
@@ -8,3 +9,5 @@ fun:
 - shirts:
 	- ![[s-l1600 5.jpg|350]]
 	- ![[s-l1600 6.jpg|350]]
+	- ![[s-l1600 7.jpg|350]]
+	- ![[s-l1600 8.jpg|350]]
