@@ -5,3 +5,5 @@
 
 fun:
 - [ ] aquarium lamp
+- shirts:
+  - ![[s-l1600.jpg]] poopy
