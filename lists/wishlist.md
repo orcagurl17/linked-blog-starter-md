@@ -6,3 +6,5 @@
 fun:
 - [ ] aquarium lamp
 - shirts:
+	- ![[s-l1600 5.jpg|350]]
+	- ![[s-l1600 6.jpg|350]]
