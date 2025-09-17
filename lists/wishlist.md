@@ -19,7 +19,8 @@
 	![[s-l1600 11.jpg|350]]
 	- [link](https://www.ebay.com/itm/177415060152?_skw=vintage+tiered+maxi+skirt+y2k&itmmeta=01K5CMPXMZJEG9D7Y725VBW6NV&hash=item294ec2fab8:g:cY4AAeSwgKdowHCI&itmprp=enc%3AAQAKAAABAFkggFvd1GGDu0w3yXCmi1dxX51pousfd6Yu7RP4f3UUHlIDye%2B4lGXxPYlc1nYhNRp2OiGyGZaKZkdCus5OlxKGj810l4JRFNOboiGF4uoHNn03v4SgMdVF1Nl1wcWzqaCDRf%2BSVZJTiKUPkmJwuNBKlGYl5dCqBS8Vl4uh8XyTyL83jDLDwzZ758652USQMEN0cdUcshdrwv1gy4KdGX6gXO58vYmXIui%2B52HtyVHxpwmuh9faxcO44imdwaO%2Ft9LpbgJzJTP99RuqSc%2BrbxUI4XnkrF4KEhXCr%2FC8b%2Bx5MAuIjdCnWndCgYfav3P2ezCpMNPIrLkmFGrS0SQDp%2FQ%3D%7Ctkp%3ABFBM0NrblKtm)
 	![[s-l1600 12.jpg|350]]
-	- [link]()
-	 
+	- [link](https://www.ebay.com/itm/286788942808?_skw=vintage+tiered+maxi+skirt+y2k&itmmeta=01K5CMQQV29VZB4P6Q391SNMRR&hash=item42c5f3fbd8:g:8lkAAeSwjsJor-Bk&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1fqkOpKlLKRATnRtMVhcxLHuk2BlxLyKe9Xua3xMuR37dND8TnleQioW9Zo1sBrPsocnbouTIlC7460IXoJQ%2FJX%2BUuFXNlXm5cWMPna0v1pWVU4tzKOgYDarZReYhnpTnbfULONOlcXlw%2B1lEquC2oyRZF%2B23qME8H1sb4UiGb9RcW9Etx%2FQB7%2BsL9oyqm0UnqDY7DokRKWGH4KVBs0EpotRw%2FpZ%2BXw2Cm28nit1TDuCudOtoXtl78m8HH9WMOYDIduDrm9bFCazj30SajTosTG%7Ctkp%3ABk9SR9j93pSrZg)
+	 ![[s-l1600 13.jpg|350]]
+	 - [link]()
 - [ ] iPad case with stand and cover
 - [ ] Converse shoes in teal blue color :)
