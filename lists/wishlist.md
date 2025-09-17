@@ -16,6 +16,6 @@
 	 ![[s-l1600 8.jpg|350]]
 - [ ] maxi pleated skirts
 	- [link](https://www.ebay.com/itm/286779757045?_skw=vintage+tiered+maxi+skirt+y2k&itmmeta=01K5CMQQV201RYTV28FBDZJDZE&hash=item42c567d1f5:g:fmYAAeSwvSpoqNNi&itmprp=enc%3AAQAKAAAA4FkggFvd1GGDu0w3yXCmi1eTVltdo9LEKje2guLPyPeGf85OSUgNzqLTDWmEQ9BKxiKXe%2F3iGPTQR9fPZrfoj%2FcwsEYDftfuDypm1q7yXiTsPcLDA2tk2wjqu2NG%2FhkgPTY%2Bx6l94n1SJJgcQmNzo6sgvPAuQ7%2BqH%2BK0F5GHbSIFeJyXWhjBjCuO9PzAdq2jJ0lF71rXc0oC2BbApujW4QuAawmPWVSCTOQysRCcnrV6MfuyXfzxlNsT8o3eTe137uUtn%2BrCKWK%2FahPSgKI39RT9fFZzQBs3w32y2iacrRIb%7Ctkp%3ABk9SR9j93pSrZg)
-		![[s-l1600 10.jpg|350]]
+	![[s-l1600 11.jpg|350]]
 - [ ] iPad case with stand and cover
 - [ ] Converse shoes in teal blue color :)
