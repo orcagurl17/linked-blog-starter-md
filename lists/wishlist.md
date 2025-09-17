@@ -2,3 +2,6 @@
 - [ ] 2-3 unpadded strapped sports bras
 - [ ] good headphones for PC
 - [ ] Ipad case with stand and cover
+
+fun:
+- [ ] aquarium lamp
