@@ -1,4 +1,7 @@
 - [ ] Donald Trump
+- [ ] Benjamin Netanyahu
+- [ ] 
+- [ ] JD Vance
 - [ ] Elon Musk
 - [ ] Jeffrey Bezos
 - [ ] Mark Zuckerberg
