@@ -3,13 +3,13 @@
 - [ ] Joe Biden (old)
 - [ ] JD Vance (middle-aged)
 - [ ] Elon Musk (middle-aged)
-- [ ] Jeffrey Bezos
-- [ ] Mark Zuckerberg
-- [ ] JK Rowling
-- [ ] Charlie Kirk
-- [ ] Andrew Tate
-- [ ] Tucker Carlson
-- [ ] Steven Crowder
-- [ ] Matt Walsh
-- [ ] Jordan Peterson
-- [ ] Clarence Thomas
+- [ ] Jeffrey Bezos (middle-aged)
+- [ ] Mark Zuckerberg (middle-aged)
+- [ ] JK Rowling (old)
+- [x] Charlie Kirk (younger)
+- [ ] Andrew Tate (younger)
+- [ ] Tucker Carlson (middle-aged)
+- [ ] Steven Crowder (younger)
+- [ ] Matt Walsh (younger)
+- [ ] Jordan Peterson (old)
+- [ ] Clarence Thomas (old)
