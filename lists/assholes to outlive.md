@@ -1,4 +1,10 @@
 - [ ] Donald Trump
 - [ ] Elon Musk
 - [ ] Jeffrey Bezos
+- [ ] Mark Zuckerberg
+- [ ] JK Rowling
+- [ ] Charlie Kirk
+- [ ] Andrew Tate
+- [ ] Tucker Carlson
+- [ ] Steven Crowder
 - [ ] 
