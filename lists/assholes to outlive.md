@@ -1,8 +1,8 @@
-- [ ] Donald Trump (1946)
-- [ ] Benjamin Netanyahu (1949)
-- [ ] Joe Biden (1942)
-- [ ] JD Vance (1984)
-- [ ] Elon Musk (1971)
+- [ ] Donald Trump (old, health conditions)
+- [ ] Benjamin Netanyahu (old)
+- [ ] Joe Biden (old)
+- [ ] JD Vance (middle-aged)
+- [ ] Elon Musk (middle-aged)
 - [ ] Jeffrey Bezos
 - [ ] Mark Zuckerberg
 - [ ] JK Rowling
