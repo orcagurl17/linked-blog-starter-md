@@ -1,6 +1,6 @@
-- [ ] Donald Trump
+- [ ] Donald Trump (1946)
 - [ ] Benjamin Netanyahu
-- [ ] 
+- [ ] Joe Biden
 - [ ] JD Vance
 - [ ] Elon Musk
 - [ ] Jeffrey Bezos
@@ -11,3 +11,5 @@
 - [ ] Tucker Carlson
 - [ ] Steven Crowder
 - [ ] Matt Walsh
+- [ ] Jordan Peterson
+- [ ] Clarence Thomas
