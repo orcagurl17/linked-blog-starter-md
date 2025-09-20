@@ -1,8 +1,8 @@
 - [ ] Donald Trump (1946)
-- [ ] Benjamin Netanyahu
-- [ ] Joe Biden
-- [ ] JD Vance
-- [ ] Elon Musk
+- [ ] Benjamin Netanyahu (1949)
+- [ ] Joe Biden (1942)
+- [ ] JD Vance (1984)
+- [ ] Elon Musk (1971)
 - [ ] Jeffrey Bezos
 - [ ] Mark Zuckerberg
 - [ ] JK Rowling
