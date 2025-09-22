@@ -1,0 +1,2 @@
+- call and/or visit these stores with intention to ask if they are hiring:
+  - [ ] 
