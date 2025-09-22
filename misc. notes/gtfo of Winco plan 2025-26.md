@@ -1,2 +1,3 @@
 - call and/or visit these stores with intention to ask if they are hiring:
 	- [ ] [Northern Star](https://www.facebook.com/p/Northern-Star-100057524355063/) - 124 SW 3rd St
+	- [ ] [Crystal Pacifica](https://crystalpacifica.com/) - 124 SW 3rd St
