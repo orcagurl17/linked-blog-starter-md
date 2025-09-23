@@ -1,2 +1,2 @@
-current job applications:
-- 
+- apply like hell
+- call each place a week later about my application and hiring status
