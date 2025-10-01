@@ -3,3 +3,5 @@
 	- Just call them up, ask to speak with the hiring manager and say something along the lines of, "Hi (their name, if you know it), this is (your name). I'm calling regarding the application I submitted last week for the (job title) position. I'm very interested in the position and am following up to see if you have any questions regarding my application?" Or: "Is there any additional information I can provide at this time?" And always end with, "Thank you so much for your time!"
 - if NONE of them pan out then contact these smaller businesses about any availability:
 	- Northern Star (hippy dippy crystal new age shop)
+
+we are so fucked dude
