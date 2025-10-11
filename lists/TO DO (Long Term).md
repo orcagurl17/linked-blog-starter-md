@@ -10,4 +10,8 @@
 - HEALTH
 	- Teeth Cleaning (at the end of October yay)
 	-  Optometrist for new prescription and glasses (Q1 2026)
-	- Gynocologist
+	- Gynocologist (Q2/3 2026 im scared.)
+- MISC.
+	- Decorate the house!
+		- Wall art
+		- 
