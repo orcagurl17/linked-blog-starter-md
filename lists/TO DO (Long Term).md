@@ -9,4 +9,5 @@
 		- Labryinth.
 - HEALTH
 	- Teeth Cleaning (at the end of October yay)
-	- 
+	-  Optometrist for new prescription and glasses (Q1 2026)
+	- Gynocologist
