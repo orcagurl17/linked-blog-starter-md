@@ -3,4 +3,10 @@
 	- Work on art page on website
 		- Add working gallery (melonland has a good gallery thats free to use)
 		- Add page for music
-		-
+	- Fictional projects of interest at the moment:
+		- Sunflower Train
+		- Spinel AU
+		- Labryinth.
+- HEALTH
+	- Teeth Cleaning (at the end of October yay)
+	- 
