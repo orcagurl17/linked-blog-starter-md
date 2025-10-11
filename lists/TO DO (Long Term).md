@@ -1,2 +1,6 @@
 - PC/ART
-	- Sort uploads into a playlist on BERYL DUMPING GROUND channel sorted by upload/creation date, and put date created in the descriptions (of course exclude the Tunny D)
+	- Sort uploads into a playlist on BERYL DUMPING GROUND channel sorted by upload/creation date, and put date created in the descriptions (of course exclude the Tunny Delirium Era vids lmfao)
+	- Work on art page on website
+		- Add working gallery (melonland has a good gallery thats free to use)
+		- Add page for music
+		-
