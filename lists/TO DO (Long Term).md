@@ -14,4 +14,6 @@
 - MISC.
 	- Decorate the house!
 		- Wall art
+		- Living room lamp
+		- External decorations on door, new welcome mat
 		- 
