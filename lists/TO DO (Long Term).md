@@ -1,5 +1,6 @@
 - WORK
-	- Currently attempting to control my schedule more with aiming for getting 3 full days off a week and working SCO 
+	- Currently attempting to control my schedule more with aiming for getting 3 full days off a week and working SCO the rest of the week.
+	- Wanting to tinker with Taskrabbit to get more sources of income and enrichment from helping people and becoming more familiar with Corvallis.
 - PC/ART
 	- Sort uploads into a playlist on BERYL DUMPING GROUND channel sorted by upload/creation date, and put date created in the descriptions (of course exclude the Tunny Delirium Era vids lmfao)
 	- Work on art page on website
