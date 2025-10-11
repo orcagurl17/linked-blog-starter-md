@@ -7,6 +7,8 @@
 		- Sunflower Train
 		- Spinel AU
 		- Labryinth.
+	- Hobbies to focus on:
+		- Cross stitching
 - HEALTH
 	- Teeth Cleaning (at the end of October yay)
 	-  Optometrist for new prescription and glasses (Q1 2026)
