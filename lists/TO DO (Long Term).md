@@ -1,3 +1,5 @@
+- WORK
+	- Currently attempting to control my schedule more with aiming for getting 3 full days off a week and working SCO 
 - PC/ART
 	- Sort uploads into a playlist on BERYL DUMPING GROUND channel sorted by upload/creation date, and put date created in the descriptions (of course exclude the Tunny Delirium Era vids lmfao)
 	- Work on art page on website
@@ -6,7 +8,7 @@
 	- Fictional projects of interest at the moment:
 		- Sunflower Train
 		- Spinel AU
-		- Labryinth.
+		- Labyrinth.
 	- Hobbies to focus on:
 		- Character design and storywriting
 		- Cross stitching
