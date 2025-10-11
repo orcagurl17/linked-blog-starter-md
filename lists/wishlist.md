@@ -1,7 +1,7 @@
 *important:*
 - [x] [Dr Scholl's foot support shoes](https://www.drschollsshoes.com/product/dr-scholls-womens-offline-lace-sneaker-5279287/ocean-green-faux-leather-82558) (no-tie)
 - [ ] 2-3 unpadded strapped sports bras
-- [ ] good headphones for PC
+- [x] good headphones for PC
 
 *fun:*
 - [ ] [aquarium lamp](https://www.ebay.com/itm/145833809499?_trksid=p2334524.c100667.m2042)
