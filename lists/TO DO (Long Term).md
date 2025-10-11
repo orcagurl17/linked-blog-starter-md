@@ -8,7 +8,11 @@
 		- Spinel AU
 		- Labryinth.
 	- Hobbies to focus on:
+		- Character design and storywriting
 		- Cross stitching
+		- Bike riding
+		- Music production
+		- HTML/CSS coding
 - HEALTH
 	- Teeth Cleaning (at the end of October yay)
 	-  Optometrist for new prescription and glasses (Q1 2026)
