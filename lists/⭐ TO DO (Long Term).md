@@ -18,7 +18,7 @@
 			- Music producing
 			- Playing ukulele
 		- HTML/CSS coding
-		- Game devel
+		- Game development
 - HEALTH
 	- Mental health and once-a-month therapy
 		- Anger management through breathing exercises and healthy physical outlets
