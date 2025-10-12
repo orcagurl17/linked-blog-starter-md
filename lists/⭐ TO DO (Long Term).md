@@ -20,9 +20,10 @@
 		- HTML/CSS coding
 - HEALTH
 	- Mental health and once-a-month therapy
-		- Anger management
+		- Anger management through breathing exercises and healthy physical outlets
 		- OCD radical acceptance
-	- Teeth Cleaning (at the end of October yay)
+		- Self-esteem and confidence
+	- Teeth Cleaning (at the end of October yay! Next one in 2027.)
 	- Optometrist for new prescription and glasses (Q1 2026)
 	- Gynocologist (Q2/3 2026 ~~im scared~~.)
 	- Possibly? Trying microdosing T????? Idk yet! (if I do it'll be next year LOL)
