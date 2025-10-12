@@ -34,6 +34,8 @@
 			- Wall art
 			- Living room lamp
 		- External:
-			- decorations on door
-			- new welcome mat
-		- Landscaping - planting new flowers, getting rid of old ones, getting rid of giant bush on the right of the front door (not the one outside of my bedroom)
+			- Decorations on door
+			- New welcome mat
+			- Landscaping:
+				- planting new flowers and getting rid of old ones
+				- getting rid of giant bush on the right of the front door (not the one outside of my bedroom)
