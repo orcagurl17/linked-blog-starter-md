@@ -18,8 +18,8 @@
 		- HTML/CSS coding
 - HEALTH
 	- Teeth Cleaning (at the end of October yay)
-	-  Optometrist for new prescription and glasses (Q1 2026)
-	- Gynocologist (Q2/3 2026 im scared.)
+	- Optometrist for new prescription and glasses (Q1 2026)
+	- Gynocologist (Q2/3 2026 ~~im scared~~.)
 	- Possibly? Trying microdosing T????? Idk yet! (if I do it'll be next year LOL)
 - MISC.
 	- Decorate the house!
