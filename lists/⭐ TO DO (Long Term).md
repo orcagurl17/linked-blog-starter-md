@@ -14,7 +14,9 @@
 		- Character design and storywriting
 		- Cross stitching
 		- Bike riding
-		- Music production
+		- Music
+			- Music producing
+			- 
 		- HTML/CSS coding
 - HEALTH
 	- Teeth Cleaning (at the end of October yay)
