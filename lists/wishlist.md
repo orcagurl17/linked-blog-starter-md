@@ -1,4 +1,6 @@
 - important
+	- [ ] N/A yet
+	- [ ] 
 	- [x] USB-B to Headphone jack for phone 💔
 	- [x] new set of underwear
 	- [x] 2-3 unpadded strapped sports bras
