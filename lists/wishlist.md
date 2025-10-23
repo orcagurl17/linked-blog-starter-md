@@ -1,11 +1,11 @@
 - important
 	- [ ] N/A yet
-	- [ ] 
-	- [x] USB-B to Headphone jack for phone 💔
-	- [x] new set of underwear
-	- [x] 2-3 unpadded strapped sports bras
-	- [x] [Dr Scholl's foot support shoes](https://www.drschollsshoes.com/product/dr-scholls-womens-offline-lace-sneaker-5279287/ocean-green-faux-leather-82558) (no-tie)
-	- [x] good headphones for PC
+	- fulfilled
+		- [x] USB-B to Headphone jack for phone 💔
+		- [x] new set of underwear
+		- [x] 2-3 unpadded strapped sports bras
+		- [x] [Dr Scholl's foot support shoes](https://www.drschollsshoes.com/product/dr-scholls-womens-offline-lace-sneaker-5279287/ocean-green-faux-leather-82558) (no-tie)
+		- [x] good headphones for PC
 - fun
 	- [ ] ear piercings!
 	- [ ] etch a sketch
