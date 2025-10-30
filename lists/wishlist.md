@@ -7,7 +7,7 @@
 		- [x] [Dr Scholl's foot support shoes](https://www.drschollsshoes.com/product/dr-scholls-womens-offline-lace-sneaker-5279287/ocean-green-faux-leather-82558) (no-tie)
 		- [x] good headphones for PC
 - fun
-	- [ ] ear piercings!
+	- [x] ear piercings!
 	- [ ] etch a sketch
 	- [ ] [aquarium lamp](https://www.ebay.com/itm/145833809499?_trksid=p2334524.c100667.m2042)
 	- [ ] vintage aquatic dolphin/orca/sea life shirts
